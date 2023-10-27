@@ -61,5 +61,8 @@ The project is organized into the following folders:
 ## Contributing
 Contributions are welcome! If you find a bug or want to add a new feature, please create an issue or a pull request.
 
+## FE REPO
+**https://github.com/Hill-Man-1/FE**
+
 ## Author
 Hilman Syarifudin
